@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-getapi",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "n8n community node for GetAPI.nl: Dutch company information (like KVK), address information (BAG), property (WOZ, energy label) and validation data with one API key",
   "license": "MIT",
   "homepage": "https://getapi.nl",
@@ -13,8 +13,11 @@
     "vat",
     "vies",
     "bag",
+    "basisregistratie gebouwen",
     "postcode",
+    "zipcode",
     "woz",
+    "waardeloket",
     "netherlands",
     "dutch"
   ],

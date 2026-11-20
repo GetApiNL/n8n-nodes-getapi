@@ -5,7 +5,7 @@ import { propertyFields, propertyOperations } from './descriptions/PropertyDescr
 import { validationFields, validationOperations } from './descriptions/ValidationDescription';
 
 // Keep in sync with the version in package.json.
-const CLIENT = 'n8n-nodes-getapi/0.0.1';
+const CLIENT = 'n8n-nodes-getapi/0.0.4';
 
 export class GetApi implements INodeType {
 	description: INodeTypeDescription = {
