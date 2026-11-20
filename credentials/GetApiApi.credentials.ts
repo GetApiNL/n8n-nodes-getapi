@@ -16,7 +16,7 @@ export class GetApiApi implements ICredentialType {
 		dark: 'file:../icons/getapi.dark.svg',
 	};
 
-	documentationUrl = 'hhttps://getapi.nl/docs/api';
+	documentationUrl = 'http://getapi.nl/docs/api';
 
 	properties: INodeProperties[] = [
 		{
