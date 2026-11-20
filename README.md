@@ -75,7 +75,7 @@ Tested with n8n 2.x. The node uses `toPathSegment`, which needs n8n 2.46.1 or la
 
 ## Resources
 
-- [GetAPI documentation](https://getapi.nl/docs)
+- [GetAPI documentation](https://getapi.nl/docs/api)
 - [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 
 ## Version history
